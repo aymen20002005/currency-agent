@@ -62,3 +62,4 @@ In another terminal, start the ADK web agent and chose the currency-agent:
 ```bash
 adk web
 ```
+[![Watch the video]](https://www.youtube.com/watch?v=6P7_Owys_Ik)
